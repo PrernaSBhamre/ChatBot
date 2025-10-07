@@ -1,5 +1,5 @@
 # 🤖 AI Chatbot 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)]
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -15,7 +15,6 @@ A beautiful, responsive AI chatbot built with vanilla JavaScript, featuring a st
 - 😊 **Emoji Support** - Built-in emoji picker
 - 📎 **File Uploads** - Share images with the AI
 - ⚡ **Real-time Typing** - Smooth loading animations
-- 🚀 **One-Click Launch** - VS Code integration
 
 
 
@@ -39,10 +38,11 @@ ai-chatbot/
 ```
 
 ### **Key Technologies**
-- **Frontend**: Vanilla HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: Vanilla HTML5, CSS3, JavaScript 
 - **API**: Google Gemini
 - **Server**: Python HTTP Server (development)
 - **Icons**: Unicode Emojis (no external dependencies)
 
 ---
+
 

@@ -14,7 +14,7 @@ const chatbotToggler = document.querySelector(".chatbot-toggler");
 const isFileProtocol = window.location.protocol === 'file:';
 
 // Demo API key - replace with your own
-const API_KEY = "AIzaSyBk7VqXpGVGGQjWxJ2qCQHGZ8sK1mE4bFw";
+const API_KEY = "  ";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 
 // Common emojis for picker
@@ -343,3 +343,4 @@ emojiButton.addEventListener("click", () => {
   // Toggle emoji picker visibility
   emojiPicker.style.display = emojiPicker.style.display === "block" ? "none" : "block";
 });
+
